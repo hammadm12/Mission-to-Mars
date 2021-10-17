@@ -1,5 +1,0 @@
-client = pymongo.MongoClient("mongodb+srv://hammadmohammad_:<password>@hammadmongo.spqh4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-db = client.test
-
-
-https://github.com/hackydunk/Movies-ETL
